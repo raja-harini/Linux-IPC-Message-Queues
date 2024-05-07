@@ -1,5 +1,5 @@
 # EX04 Linux-IPC-Message-Queues
-Linux IPC-Message Queues
+
 
 # AIM:
 To write a C program that receives a message from message queue and display them
